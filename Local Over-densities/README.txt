@@ -1,3 +1,15 @@
+This is the implementation of identifying and processing local over-densities.
+
+Directore Struture
+Parameter Calculation：It includes the code for calculating self-sparsity, mutual sparsity, and small-distance variability, as well as for identifying and processing local over-densities and generating synthetic data models.
+Examples：Provides a careful set of exampels that are known to work.
+README： Explains how to compile and run the code.
+
+Program language
+matlab
+
+
+The following is a detailed description of each file
 
 In the "code" folder:
 
