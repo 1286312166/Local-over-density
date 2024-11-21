@@ -16,6 +16,7 @@ The following is a detailed description of each file.
 In the "code" folder:
 
 In the "Parameter Calculation" subfolder:
+
 self_sparsity_all.m——calculate self-sparsity (use all points)
 
 self_sparsity_neighbor.m——calculate self-sparsity (use neighbor points)
@@ -32,6 +33,7 @@ extract_output.m——extract small values of self-sparsity and mutual sparsity 
 
 
 In the "theoretical data" subfolder：
+
 uniform_theoretical_data.m——2D uniform mesh synthetic data (without noise)
 
 theoretical_data.m——synthetic data generation (without noise)
@@ -43,6 +45,7 @@ add_nosiy.m——add nosiy to existing data
 
 
 In the "examples" folder:
+
 "xx-data"——spatial dataset
 
 "xx-MSsp-Var"——calculate self-sparsity, mutual sprasity and small-distance variability
