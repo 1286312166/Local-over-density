@@ -13,6 +13,7 @@ matlab
 The following is a detailed description of each file.
 
 
+
 In the "code" folder:
 
 In the "Parameter Calculation" subfolder:
@@ -32,6 +33,7 @@ Sparsity_variability_neighbor.m——calculate self-sparsity, mutual sprasity an
 extract_output.m——extract small values of self-sparsity and mutual sparsity and extract anomalously high values of small-distance variability
 
 
+
 In the "theoretical data" subfolder：
 
 uniform_theoretical_data.m——2D uniform mesh synthetic data (without noise)
@@ -41,6 +43,7 @@ theoretical_data.m——synthetic data generation (without noise)
 add_dense_points.m——add dense points to existing data
 
 add_nosiy.m——add nosiy to existing data
+
 
 
 
