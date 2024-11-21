@@ -9,7 +9,7 @@ Program language
 matlab
 
 
-The following is a detailed description of each file
+The following is a detailed description of each file.
 
 In the "code" folder:
 
@@ -30,17 +30,8 @@ add_nosiy.m——add nosiy to existing data
 
 
 In the "examples" folder:
-
 "xx-data"——spatial dataset
 "xx-MSsp-Var"——calculate self-sparsity, mutual sprasity and small-distance variability
 "xx-mutual-sp"——only calculate mutual sprasity
 "xx-mutual-self-sp"——only calculate self-sparsity and mutual sprasity
 In the "relative errors" subfolder: relative error results are stored
-
-In the "examples" folder:
-
-"xx-data"——spatial dataset.
-"xx-MSsp-Var"——calculate self-sparsity, mutual sprasity and small-distance variability.
-"xx-mutual-sp"——only calculate mutual sprasity.
-"xx-mutual-self-sp"——only calculate self-sparsity and mutual sprasity.
-In the "relative errors" subfolder: relative error results are stored.
