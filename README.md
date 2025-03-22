@@ -59,3 +59,9 @@ In the "examples" folder:
 
 In the "relative errors" subfolder: relative error results are stored
 
+
+
+In the "Picture drawing code" folder:
+
+The drawing code includes sequence number - self-sparsity , sequence number - mutual sparsity, sequence number - small-distance variability plot and three-parameter comprehensive cross-plot
+
