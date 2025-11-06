@@ -1,3 +1,5 @@
+A visual method for identifying local over-densities in spatial data
+
 This is the implementation of identifying and processing local over-densities.
 
 Directore Struture
