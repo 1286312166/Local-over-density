@@ -51,7 +51,7 @@ In the "examples" folder:
 
 “real data” folder————The real data point set is derived from the fusion of GPS data point sets from Wang and Shen (2020) and other sources, as carried out by Li et al. (2023).
 
-"Synthetic data"————unconditional sequential Gaussian simulation and other datasets (not used in the paper, but can be referred to and used by users
+"Synthetic data" folder————unconditional sequential Gaussian simulation and other datasets (not used in the paper, but can be referred to and used by users
 
 "xx-data"/"dataset"——spatial dataset
 
